@@ -1,3 +1,2 @@
 My first readme
-basic shell
-1
+Your way around git & git basic command usage
